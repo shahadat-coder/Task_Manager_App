@@ -12,4 +12,4 @@
 ![09 08 2023_22 55 36_REC](https://github.com/shahadat349850/Task_Manager_App/assets/112892447/c291e15e-dd74-4b2d-8dca-e6edbb8bece3)
 ![09 08 2023_22 55 56_REC](https://github.com/shahadat349850/Task_Manager_App/assets/112892447/73f51956-384d-4abf-a19d-12626df46106)
 ![09 08 2023_22 56 19_REC](https://github.com/shahadat349850/Task_Manager_App/assets/112892447/19037733-45a2-4aec-b362-5c3775eadefa)
-![09 08 2023_22 58 43_REC](https://github.com/shahadat349850/Task_Manager_App/assets/112892447/fc3700b0-9746-4576-9b94-65f9914d017d)
+
